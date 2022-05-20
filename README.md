@@ -11,4 +11,4 @@ Fecha clase - Tareas y proyectos
 
 ## Módulo 2:
 Fecha clase - Tareas y proyectos
-- 20-21/05/2022 - n5: Clustering analysys and Machine Learning intro with Python!
+- 20-21/05/2022 - n5: Clustering analysis and Machine Learning intro with Python!
