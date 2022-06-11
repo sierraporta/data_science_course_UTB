@@ -10,7 +10,7 @@ Tarea de Hoy:
 CSV columnas (numéricas) para hacer regresión....
 - Paso 1: 8.30am - 9.30.....
 
-3. Tarea y Trabo autónomo:
+3. Tarea y Trabajo autónomo:
 Vamos a escribir un resumen para un congreso o un evento científico que sea el producto de nuestro trabajo de investigación con los datos que hemos obtenido. El resumen debe contener los siguientes insumos como mínimo:
 - Nombre de la Ponencia
 - Autor de la Ponencia
