@@ -17,7 +17,7 @@ Vamos a escribir un resumen para un congreso o un evento científico que sea el 
 - Descripción del problema que se está resolviendo (Breve)
 - Descripción de los datos, ¿dónde los obtuvo?, ¿qué variables tienes para describir?, ¿cuál es la variable que se quiere predecir?, ¿cuáles variables se usan para predecir?
 - ¿Qué metodología usó? Machine Learning con regresión lineal múltiple y Machine Learning con Random Forest.
-- ¿Qué resultados obtuvo? ¿Cuánto fue el RMSE de regresión lineal múltiple y de Random Forest? ¿Cuál modelo fue mejor regresión lineal múltiple o de Randon Forest? ¿Por qué?
+- ¿Qué resultados obtuvo? ¿Cuánto fue el RMSE de regresión lineal múltiple y de Random Forest? ¿Cuál modelo fue mejor regresión lineal múltiple o de Random Forest? ¿Por qué?
 - Trabajo futuro: ¿qué cree que se puede hacer en el futuro para mejorar la metodología o hacer algo distinto al estudio?
 - Un gráfico final que resuma la info con los modelos.
 
