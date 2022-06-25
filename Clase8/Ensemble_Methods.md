@@ -31,7 +31,3 @@ Como desarrollador de un modelo de aprendizaje automático, es muy recomendable 
 4. Boosting: El refuerzo es un método secuencial cuyo objetivo es evitar que un modelo base erróneo afecte al resultado final. En lugar de combinar los modelos base, el método se centra en construir un nuevo modelo que depende del anterior. El nuevo modelo intenta eliminar los errores cometidos por el anterior. Cada uno de estos modelos se denomina aprendiz débil. El modelo final (llamado aprendiz fuerte) se forma obteniendo la media ponderada de todos los aprendices débiles. 
 
 
-#<p float="left">
-#  <img src="https://images.thefishsite.com/fish/articles/Australasia/green-abalone.jpg?profile=article-inline@maximum" width="840" />
-#  <img src="https://www.researchgate.net/profile/Paul-Lee-15/publication/26254910/figure/fig3/AS:310073449566213@1450938679680/The-cross-section-of-the-abalone-shell-showing-a-layered-microstructure-composed-of.png" width="555" /> 
-#</p>
